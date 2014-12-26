@@ -16,7 +16,7 @@ Maurice Randall, Click Here Software Co.
 
 ## License
 
-Copy this code, rearrange it, organize it, steal it, whatever... take it and build some exciting new applications for GEOS and Wheels users. There's a great deal of excitement left in these old computers.
+"Copy this code, rearrange it, organize it, steal it, whatever... take it and build some exciting new applications for GEOS and Wheels users. There's a great deal of excitement left in these old computers." ([SourceReadMe.txt](SourceReadMe.txt).)
 
 ## This Repository
 

@@ -8,7 +8,7 @@ Included in this archive are all the source code files needed to recreate The Wa
 
 ## Documentation
 
-See [SourceReadMe.txt](SourceReadMe.txt)
+See [SourceReadMe.rtf](SourceReadMe.rtf)
 
 ## Author
 
@@ -16,8 +16,8 @@ Maurice Randall, Click Here Software Co.
 
 ## License
 
-"Copy this code, rearrange it, organize it, steal it, whatever... take it and build some exciting new applications for GEOS and Wheels users. There's a great deal of excitement left in these old computers." ([SourceReadMe.txt](SourceReadMe.txt).)
+"Copy this code, rearrange it, organize it, steal it, whatever... take it and build some exciting new applications for GEOS and Wheels users. There's a great deal of excitement left in these old computers." ([SourceReadMe.rtf](SourceReadMe.rtf).)
 
 ## This Repository
 
-This repository is a conversion of the [original source drop in GeoWrite format](ftp://8bitfiles.net/cbm8bits/c64/misc-utils/WAVESRCV10.WR3) into plain text files (using [geowrite2txt](https://github.com/mist64/geowrite2txt)) by Michael Steil, <mist64@mac.com>. Refer to the original files if you want to build this with the original tools; it cannot currently be built in this format.
+This repository is a conversion of the [original source drop in GeoWrite format](ftp://8bitfiles.net/cbm8bits/c64/misc-utils/WAVESRCV10.WR3) into plain text files (using [geowrite2rtf](https://github.com/mist64/geowrite2rtf)) by Michael Steil, <mist64@mac.com>. Refer to the original files if you want to build this with the original tools; it cannot currently be built in this format.
